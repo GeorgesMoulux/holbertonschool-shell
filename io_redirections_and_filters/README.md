@@ -1,1 +1,0 @@
-learning basic shells commands 
